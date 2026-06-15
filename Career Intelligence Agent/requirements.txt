@@ -1,0 +1,17 @@
+streamlit
+playwright
+google-generativeai
+
+sentence-transformers
+torch
+
+pdfplumber
+
+sqlalchemy
+
+pandas
+
+numpy
+requests
+python-dotenv
+google-generativeai
